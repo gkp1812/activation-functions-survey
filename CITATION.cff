@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "activation-functions-survey: code and results for an activation function analysis"
+authors:
+  - family-names: Pandey
+    given-names: Gaurav Kumar
+    affiliation: "Birla Institute of Technology, Mesra, Ranchi, India"
+  - family-names: Srivastava
+    given-names: Sumit
+    affiliation: "Birla Institute of Technology, Mesra, Ranchi, India"
+license: MIT
+repository-code: "https://github.com/gkp1812/activation-functions-survey"
+date-released: 2026-11-20
